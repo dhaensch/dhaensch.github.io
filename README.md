@@ -1,3 +1,25 @@
+### About Me
+I am an 11 year insurance professional currently working on an M.S. in business analytics to combine my educational background mathematics with my professional background in insurance. I am interested in deep diving into data to try to uncover meaningful insights for data driven decision making using technology such as Excel, SQL, Tableau, Python and R.
+
+### Table of Contents
+- [About](https://github.com/dhaensch/dhaensch.github.io/blob/main/README.md#About_Me)
+- [Portfolio Projects](https://github.com/dhaensch/dhaensch.github.io/blob/main/README.md#portfolio-projects)
+  - Python
+    - [Generating False images based on the CIFAR-10 Dataset using a GAN] 
+  - SQL
+  - R
+- [Education](https://github.com/dhaensch/dhaensch.github.io/blob/main/README.md#education)
+- [Work Experience](https://github.com/dhaensch/dhaensch.github.io/blob/main/README.md#work_experience)  
+ 
+### Portfolio Projects
+**Python**
+
+**R**
+
+**SQL**
+
+**Tableau**
+
 ### Education
 - M.S., Business Analytics | Champlain College (_Anticipated Graduation: August 2026_)
 - B.A., Physics With Mathematics Minor | State University of New York College at Geneseo (_Graduation: May 2013_)
@@ -34,11 +56,4 @@
 - Manage claims of clear liability to completion
 
 
-### Projects
-**Python**
 
-**R**
-
-**SQL**
-
-**Tableau**
