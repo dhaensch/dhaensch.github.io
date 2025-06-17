@@ -19,7 +19,7 @@ I am an 11 year insurance professional currently working on an M.S. in business 
   - Description: This project focused on training a generative adversarial network to generate false images based on the CIFAR-10 dataset. The CIFAR-10 dataset consists of 60,000 color images of size 32×32 pixels, divided into 10 different classes. The GAN's generator and descriminator will be built using convolutional neural networks, and performance will be monitored by graphing the loss functions of the generator and discriminator and through manual inspection of generated images.<br>
   - Skills: Deep Learning, Neural Networks, Generative Adversarial Networks, Data Visualization<br>
   - Technology: Python, PyTorch, Matplotlib, Numpy<br>
-  - Result: After running the GAN through 15 epochs, there was significant improvement in the quality of the generator's performance. After viewing the real and generated images side by side, the GAN does not appear to have suffered mode collapse and based on the loss graph, the model has not achieved equillibrium yet. Further parameter tuning and more training epochs are recommended for further study.
+  - Result: After running the GAN through 15 epochs, there was significant improvement in the quality of the generator's performance. After viewing the real and generated images side by side, the GAN does not appear to have suffered mode collapse and based on the loss graph, the model has not achieved equillibrium yet. Further parameter tuning and more training epochs are recommended for further study. <br> 	![GAN Loss Graph](GAN_CIFAR10_losses_during_training.png) <br> ![GAN Final Image Comparison](GAN_CIFAR10_finale_image_comparison.png)
 
 **R**
 
