@@ -5,7 +5,7 @@ I am an 11 year insurance professional currently working on an M.S. in business 
 - [About](https://github.com/dhaensch/dhaensch.github.io/blob/main/README.md#About_Me)
 - [Portfolio Projects](https://github.com/dhaensch/dhaensch.github.io/blob/main/README.md#portfolio-projects)
   - Python
-    - [Generating False Images Based on the CIFAR-10 Dataset Using a GAN](https://github.com/dhaensch/dhaensch.github.io/blob/main/README.md#Generating_False_images_based_on_the_CIFAR-10_Dataset_using_a_GAN) 
+    - [Generating False Images Based on the CIFAR-10 Dataset Using a GAN](https://github.com/dhaensch/dhaensch.github.io/blob/main/README.md#Generating_False_Images_Based_on_the_CIFAR-10_Dataset_Using_a_GAN) 
   - SQL
   - R
 - [Education](https://github.com/dhaensch/dhaensch.github.io/blob/main/README.md#education)
