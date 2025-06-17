@@ -5,7 +5,7 @@ I am an 11 year insurance professional currently working on an M.S. in business 
 - [About](https://github.com/dhaensch/dhaensch.github.io/blob/main/README.md#About_Me)
 - [Portfolio Projects](https://github.com/dhaensch/dhaensch.github.io/blob/main/README.md#portfolio-projects)
   - Python
-    - [Generating False images based on the CIFAR-10 Dataset using a GAN] 
+    - [Generating False images based on the CIFAR-10 Dataset using a GAN](https://github.com/dhaensch/dhaensch.github.io/blob/main/README.md#Generating_False_images_based_on_the_CIFAR-10_Dataset_using_a_GAN) 
   - SQL
   - R
 - [Education](https://github.com/dhaensch/dhaensch.github.io/blob/main/README.md#education)
@@ -13,6 +13,13 @@ I am an 11 year insurance professional currently working on an M.S. in business 
  
 ### Portfolio Projects
 **Python**
+- **Generating False images based on the CIFAR-10 Dataset using a GAN**<br><br>
+  - Code: ![GAN_CIFAR10.ipynb](GAN_CIFAR10.ipynb)<br>
+  - Goal: To create a GAN to generate false images based on CIFAR-10 dataset.  <br>
+  - Description: This project focused on training a generative adversarial network to generate false images based on the CIFAR-10 dataset. The CIFAR-10 dataset consists of 60,000 color images of size 32×32 pixels, divided into 10 different classes. The GAN's generator and descriminator will be built using convolutional neural networks, and performance will be monitored by graphing the loss functions of the generator and discriminator and through manual inspection of generated images.<br>
+  - Skills: Deep Learning, Neural Networks, Generative Adversarial Networks, Data Visualization<br>
+  - Technology: Python, PyTorch, Matplotlib, Numpy<br>
+  - Result: After running the GAN through 15 epochs, there was significant improvement in the quality of the generator's performance. After viewing the real and generated images side by side, the GAN does not appear to have suffered mode collapse and based on the loss graph, the model has not achieved equillibrium yet. Further parameter tuning and more training epochs are recommended for further study.
 
 **R**
 
