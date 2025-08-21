@@ -7,8 +7,6 @@ I am an 11 year insurance professional currently working on an M.S. in business 
   - Python
     - [Generating Images Based on the CIFAR-10 Dataset Using a GAN](https://github.com/dhaensch/dhaensch.github.io/blob/main/README.md#Generating_Images_Based_on_the_CIFAR-10_Dataset_Using_a_GAN)
     - [Building a Random Forest Regression Model to Predict Baseball Game Attendance using Local Outlier Factor](https://github.com/dhaensch/dhaensch.github.io/blob/main/README.md#Building_a_Random_Forest_Regression_Model_to_Predict_Baseball_Game_Attendance_using_Local_Outlier_Factor)  
-  - SQL
-  - R
 - [Education](https://github.com/dhaensch/dhaensch.github.io/blob/main/README.md#education)
 - [Work Experience](https://github.com/dhaensch/dhaensch.github.io/blob/main/README.md#work_experience)  
  
@@ -30,12 +28,6 @@ I am an 11 year insurance professional currently working on an M.S. in business 
   - Technology: Python, Matplotlib, Seaborn, Numpy, Pandas, Scikit-learn <br>
   - Result: Overall, the models did a good job with the prediction. Applying the local outlier factor to remove outliers prior to the random forest application did show some improvements over a random forest only model. Looking at the predicted vs actual plots, there were still outliers present, but most of the points were clustered around the ideal line. The most important feature to both the RF and RF&LOF models was the day of the week of the game. This is a somewhat unsurprising result because one would expect higher attendance at games that occur on the weekend. Both game day and game month were in the top 10 features, but not the game hour meaning the day and month were more important to our model than the hour the game started. The rest of the top 10 most important feature spots were taken by various home teams. Home team is a large predictor of attendance in both models. <br>
 
-
-**R**
-
-**SQL**
-
-**Tableau**
 
 ### Education
 - M.S., Business Analytics | Champlain College (_Anticipated Graduation: August 2026_)
